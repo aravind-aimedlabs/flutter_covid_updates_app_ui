@@ -1,6 +1,6 @@
 flutter covid updates App ui
 
-<img src="screenshot/screen.png" width="400px">
+<img src="screenshot/Screen.png" width="400px">
 
 
 
